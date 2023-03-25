@@ -1431,7 +1431,7 @@ body.mobile-sidebar-active .button-toggle:after {
 
 .entry-header .cat-links {
 	font-size: 0.750rem;
-	text-transform: uppercase;
+	text-transform: unset;
 	letter-spacing: 0.05em;
 	font-style: normal;
 	font-weight: 700;
