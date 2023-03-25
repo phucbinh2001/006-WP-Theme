@@ -1,0 +1,787 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-19 15:33+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: inc/about-page/class-type-about-page.php:289
+#, php-format
+msgid ""
+"%s is optimized for the block editor with nice styling for blocks and "
+"combinations."
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:99 inc/template-tags.php:105
+msgid ", "
+msgstr ""
+
+#: inc/customizer.php:388
+msgid "0%"
+msgstr ""
+
+#: inc/customizer.php:389
+msgid "10%"
+msgstr ""
+
+#: inc/customizer.php:390
+msgid "20%"
+msgstr ""
+
+#: inc/customizer.php:391
+msgid "30%"
+msgstr ""
+
+#: inc/customizer.php:392
+msgid "40%"
+msgstr ""
+
+#: inc/customizer.php:393
+msgid "50%"
+msgstr ""
+
+#: inc/customizer.php:394
+msgid "60%"
+msgstr ""
+
+#: inc/customizer.php:395
+msgid "70%"
+msgstr ""
+
+#: inc/customizer.php:396
+msgid "80%"
+msgstr ""
+
+#: inc/about-page/class-type-about-page.php:83
+#: inc/about-page/class-type-about-page.php:84
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: functions.php:140 inc/customizer.php:729
+msgid "Accent Color"
+msgstr ""
+
+#: inc/customizer.php:382
+msgid ""
+"Add a dark overlay to the Header Image, to ensure the right text readability."
+msgstr ""
+
+#. To add an additional character subset specific to your language, translate this to 'greek', 'cyrillic', 'devanagari' or 'vietnamese'. Do not translate into your own language.
+#: functions.php:173
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr ""
+
+#: inc/customizer.php:367
+msgid "Add padding above and below Header Image."
+msgstr ""
+
+#: functions.php:269 functions.php:278 functions.php:287
+msgid "Add widgets here to appear in your footer."
+msgstr ""
+
+#: functions.php:306
+msgid "Add widgets here to appear in your Shop."
+msgstr ""
+
+#: functions.php:260
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+#: inc/customizer.php:134
+msgid "All categories"
+msgstr ""
+
+#: template-parts/post/author-bio.php:20
+msgid "Author:"
+msgstr ""
+
+#: inc/customizer.php:440
+msgid "Avoid duplicate posts"
+msgstr ""
+
+#: functions.php:115
+msgid "Black"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Build a professional blog, an online store or a magazine style website with "
+"Type WordPress Theme. We built Type with performance, usability, and SEO in "
+"mind. It’s fast, lightweight, and fully AMP-compatible. With Type your "
+"website will look amazing on all devices to provide a great user experience. "
+"It comes with several options to quickly customize your site: quickly upload "
+"your Logo, easily combine 4 Header Styles, create an impressive Header Image, "
+"showcase your Featured Posts, and more. The Theme includes also a basic "
+"support for WooCommerce plugin."
+msgstr ""
+
+#: inc/customizer.php:186
+msgid "Categories & Archives"
+msgstr ""
+
+#: inc/customizer.php:407
+msgid ""
+"Check this option to highlight some content to your visitors at the top of "
+"the Homepage."
+msgstr ""
+
+#: inc/customizer.php:143
+msgid "Colors"
+msgstr ""
+
+#: comments.php:53 comments.php:73
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:88
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: number of comments, 2: post title
+#: comments.php:38
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#. %s: post title
+#: comments.php:34
+#, php-format
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr ""
+
+#: inc/customizer.php:429
+msgid "Custom Title (Default is Category Name)"
+msgstr ""
+
+#: functions.php:120
+msgid "Dark Gray"
+msgstr ""
+
+#. Author of the theme
+msgid "Design Lab"
+msgstr ""
+
+#: inc/customizer.php:617
+msgid "Display Author Bio"
+msgstr ""
+
+#: inc/customizer.php:572 inc/customizer.php:648
+msgid "Display Featured Image"
+msgstr ""
+
+#: inc/customizer.php:406
+msgid "Display Featured Posts"
+msgstr ""
+
+#: inc/customizer.php:256
+msgid "Display Read More Link"
+msgstr ""
+
+#: inc/customizer.php:304
+msgid "Display Search Icon"
+msgstr ""
+
+#: inc/customizer.php:315
+msgid "Display Social Links"
+msgstr ""
+
+#: inc/customizer.php:418
+msgid "Display Title"
+msgstr ""
+
+#. %s: Name of current post
+#: inc/template-tags.php:121 template-parts/page/content-page.php:46
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: inc/customizer.php:441
+msgid "Enable this option to remove Featured Posts from the Homepage content."
+msgstr ""
+
+#: inc/customizer.php:497 inc/customizer.php:551
+msgid "Excerpt length"
+msgstr ""
+
+#: inc/customizer.php:562 inc/customizer.php:638
+msgid "Featured Image"
+msgstr ""
+
+#: inc/customizer.php:173
+msgid "Featured Posts"
+msgstr ""
+
+#: inc/customizer.php:58
+msgid "Follow on Instagram"
+msgstr ""
+
+#: inc/customizer.php:62
+msgid "Follow on Twitter"
+msgstr ""
+
+#: inc/customizer.php:223
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer.php:849
+msgid "Footer Background"
+msgstr ""
+
+#: functions.php:294
+msgid "Footer Bottom Widget Area"
+msgstr ""
+
+#: functions.php:267
+msgid "Footer Widget Area 1"
+msgstr ""
+
+#: functions.php:276
+msgid "Footer Widget Area 2"
+msgstr ""
+
+#: functions.php:285
+msgid "Footer Widget Area 3"
+msgstr ""
+
+#: inc/customizer.php:838
+msgid "Footer Widget Area Background"
+msgstr ""
+
+#: functions.php:776
+msgid "Free vs Pro"
+msgstr ""
+
+#: inc/customizer.php:588 inc/customizer.php:664
+msgid "Full width Featured Image"
+msgstr ""
+
+#: inc/customizer.php:331
+msgid "Fullwidth"
+msgstr ""
+
+#: inc/customizer.php:154 inc/customizer.php:213
+msgid "General"
+msgstr ""
+
+#: inc/about-page/class-type-about-page.php:213
+#: inc/about-page/class-type-about-page.php:266
+#: inc/about-page/class-type-about-page.php:333
+#, php-format
+msgid "Get %s now"
+msgstr ""
+
+#: functions.php:772
+#, php-format
+msgid "Get started with %s"
+msgstr ""
+
+#: functions.php:775
+msgid "Getting Started"
+msgstr ""
+
+#: inc/customizer.php:470 inc/customizer.php:524
+msgid "Grid"
+msgstr ""
+
+#: inc/customizer.php:218
+msgid "Header"
+msgstr ""
+
+#: inc/customizer.php:752
+msgid "Header Background"
+msgstr ""
+
+#: inc/customizer.php:381
+msgid "Header Image Overlay"
+msgstr ""
+
+#: inc/customizer.php:366
+msgid "Header Image Padding"
+msgstr ""
+
+#: inc/customizer.php:278
+msgid "Header Layout"
+msgstr ""
+
+#: inc/customizer.php:167
+msgid "Header Logo"
+msgstr ""
+
+#: inc/customizer.php:160 inc/customizer.php:294
+msgid "Header Options"
+msgstr ""
+
+#: functions.php:487
+msgid "Home"
+msgstr ""
+
+#: inc/customizer.php:179
+msgid "Homepage"
+msgstr ""
+
+#: footer.php:66
+msgid "https://wordpress.org/"
+msgstr ""
+
+#. Author URI of the theme
+#: footer.php:68
+msgid "https://www.designlabthemes.com/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://www.designlabthemes.com/type-wordpress-theme/"
+msgstr ""
+
+#: functions.php:105
+msgid "Huge"
+msgstr ""
+
+#: inc/about-page/class-type-about-page.php:207
+#, php-format
+msgid "If you &hearts; %1$s, you’ll love all the extra features %2$s come with."
+msgstr ""
+
+#: 404.php:23
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: template-parts/post/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching "
+"can help."
+msgstr ""
+
+#: searchform.php:12
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: functions.php:100 inc/customizer.php:471 inc/customizer.php:525
+msgid "Large"
+msgstr ""
+
+#: inc/customizer.php:587 inc/customizer.php:663
+msgid "Large Featured Image"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:114
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/customizer.php:486 inc/customizer.php:540 inc/customizer.php:605
+#: inc/customizer.php:682 inc/customizer.php:708
+msgid "Left Sidebar"
+msgstr ""
+
+#: functions.php:130
+msgid "Light Gray"
+msgstr ""
+
+#: inc/customizer.php:469 inc/customizer.php:523
+msgid "List"
+msgstr ""
+
+#: inc/customizer.php:341
+msgid "Logo Max Width (desktop)"
+msgstr ""
+
+#: inc/customizer.php:353
+msgid "Logo Max Width (mobile)"
+msgstr ""
+
+#: inc/customizer.php:327
+msgid "Logo Size"
+msgstr ""
+
+#: functions.php:42 template-parts/navigation/navigation-main.php:11
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:125
+msgid "Medium Gray"
+msgstr ""
+
+#: header.php:33
+msgid "Menu"
+msgstr ""
+
+#: inc/customizer.php:789
+msgid "Menu Item"
+msgstr ""
+
+#: inc/customizer.php:801
+msgid "Menu Item hover"
+msgstr ""
+
+#: template-parts/navigation/navigation-mobile.php:11
+msgid "Mobile Menu"
+msgstr ""
+
+#: inc/customizer.php:776
+msgid "Navbar Background"
+msgstr ""
+
+#: inc/customizer.php:740
+msgid "Need more colors?"
+msgstr ""
+
+#: inc/about-page/class-type-about-page.php:265
+#, php-format
+msgid "Need more customizations and flexibility? Try %s"
+msgstr ""
+
+#: inc/customizer.php:267 inc/customizer.php:508 inc/customizer.php:628
+#: inc/customizer.php:691 inc/customizer.php:718
+msgid "Need more options?"
+msgstr ""
+
+#: comments.php:56 comments.php:76
+msgid "Newer Comments"
+msgstr ""
+
+#: inc/customizer.php:606
+msgid "No Sidebar Centered"
+msgstr ""
+
+#: inc/customizer.php:487 inc/customizer.php:541 inc/customizer.php:607
+#: inc/customizer.php:709
+msgid "No Sidebar Full width"
+msgstr ""
+
+#. Name of the template
+msgid "No Sidebar, Centered"
+msgstr ""
+
+#. Name of the template
+msgid "No Sidebar, Full Width"
+msgstr ""
+
+#: functions.php:95
+msgid "Normal"
+msgstr ""
+
+#: search.php:29 template-parts/post/content-none.php:19
+msgid "Nothing Found"
+msgstr ""
+
+#. If there are characters in your language that are not supported by Nunito Sans, translate this to 'off'. Do not translate into your own language.
+#: functions.php:163
+msgctxt "Nunito Sans: on or off"
+msgid "on"
+msgstr ""
+
+#: comments.php:55 comments.php:75
+msgid "Older Comments"
+msgstr ""
+
+#: functions.php:296
+msgid ""
+"One Column Widget Area. Add widgets here to appear at the bottom of the page."
+msgstr ""
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: inc/customizer.php:199
+msgid "Page"
+msgstr ""
+
+#: template-parts/post/content-single.php:43
+#: template-parts/page/content-page.php:35
+msgid "Pages:"
+msgstr ""
+
+#: searchform.php:13
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: inc/about-page/class-type-about-page.php:248
+#, php-format
+msgid ""
+"Please rate us <a target=\"_blank\" href=\"https://wordpress."
+"org/support/theme/%1$s/reviews/?filter=5\" target=\"_blank\">&#9733;&#9733;"
+"&#9733;&#9733;&#9733;</a> on <a target=\"_blank\" href=\"https://wordpress."
+"org/support/theme/%1$s/reviews/?filter=5\" target=\"_blank\">WordPress.org</a>"
+" to help us spread the word. Thank you from Design Lab Themes!"
+msgstr ""
+
+#. If there are characters in your language that are not supported by Poppins, translate this to 'off'. Do not translate into your own language.
+#: functions.php:168
+msgctxt "Poppins: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/customizer.php:193
+msgid "Post"
+msgstr ""
+
+#: inc/customizer.php:465 inc/customizer.php:519
+msgid "Post Layout"
+msgstr ""
+
+#: inc/template-tags.php:101
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: footer.php:66
+#, php-format
+msgid "Powered by %s"
+msgstr ""
+
+#: inc/customizer.php:54
+msgid "Rate This Theme"
+msgstr ""
+
+#: functions.php:551
+msgid "Read More"
+msgstr ""
+
+#: template-parts/post/content-none.php:27
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/customizer.php:332
+msgid "Resize"
+msgstr ""
+
+#: inc/customizer.php:485 inc/customizer.php:539 inc/customizer.php:604
+#: inc/customizer.php:681 inc/customizer.php:707
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer.php:826
+msgid "Search Icon"
+msgstr ""
+
+#: search.php:27
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/customizer.php:452
+msgid "Select a Category"
+msgstr ""
+
+#: inc/customizer.php:583 inc/customizer.php:659
+msgid "Select Style"
+msgstr ""
+
+#: inc/customizer.php:182
+msgid "Settings for Blog Index Page."
+msgstr ""
+
+#: inc/customizer.php:189
+msgid "Settings for Category, Tag, Search and Archive Pages."
+msgstr ""
+
+#: inc/customizer.php:163
+msgid "Settings for Site Header."
+msgstr ""
+
+#: functions.php:304
+msgid "Shop Sidebar"
+msgstr ""
+
+#: functions.php:350 functions.php:354
+msgid "Show sub menu"
+msgstr ""
+
+#: functions.php:258
+msgid "Sidebar"
+msgstr ""
+
+#: inc/customizer.php:677
+msgid ""
+"Sidebar options for Static Pages. To remove the Sidebar apply No Sidebar "
+"Template to the Page."
+msgstr ""
+
+#: inc/customizer.php:703
+msgid "Sidebar options for WooCommerce Pages (Shop, Product, Product Category)"
+msgstr ""
+
+#: inc/customizer.php:481 inc/customizer.php:535 inc/customizer.php:600
+#: inc/customizer.php:676 inc/customizer.php:702
+msgid "Sidebar Position"
+msgstr ""
+
+#: inc/customizer.php:246
+msgid "Site Options"
+msgstr ""
+
+#: inc/customizer.php:764
+msgid "Site Tagline"
+msgstr ""
+
+#: inc/customizer.php:118
+msgid "Site Title"
+msgstr ""
+
+#: inc/customizer.php:283
+msgid "Site Title centered above Header Image + Navbar below"
+msgstr ""
+
+#: inc/customizer.php:284
+msgid "Site Title centered above Header Image + Top Navbar"
+msgstr ""
+
+#: inc/customizer.php:282
+msgid "Site Title centered over Header Image + Navbar below"
+msgstr ""
+
+#: inc/customizer.php:285
+msgid "Site Title left + Menu above Header Image"
+msgstr ""
+
+#: functions.php:331
+msgid "Skip to content"
+msgstr ""
+
+#: functions.php:90
+msgid "Small"
+msgstr ""
+
+#: inc/customizer.php:814
+msgid "Social Link"
+msgstr ""
+
+#: functions.php:43 template-parts/navigation/navigation-social.php:11
+msgid "Social Menu"
+msgstr ""
+
+#: search.php:51
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: searchform.php:17
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: inc/template-tags.php:107
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: footer.php:68
+#, php-format
+msgid "Theme by %s"
+msgstr ""
+
+#: inc/customizer.php:50
+msgid "Theme Documentation"
+msgstr ""
+
+#: inc/customizer.php:46
+msgid "Theme Homepage"
+msgstr ""
+
+#: inc/customizer.php:802
+msgid "This option overrides the Accent Color."
+msgstr ""
+
+#: inc/customizer.php:42
+msgid "Try Type Plus"
+msgstr ""
+
+#. Name of the theme
+msgid "Type"
+msgstr ""
+
+#: inc/customizer.php:150
+msgid "Type Links"
+msgstr ""
+
+#: inc/customize-pro/class-customize.php:76
+msgid "Type Plus"
+msgstr ""
+
+#: inc/customizer.php:138
+msgid "Type Settings"
+msgstr ""
+
+#: inc/about-page/class-type-about-page.php:206
+#, php-format
+msgid "Upgrade to %s"
+msgstr ""
+
+#: inc/template-tags.php:26 inc/template-tags.php:41 inc/template-tags.php:56
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr ""
+
+#: inc/template-tags.php:83
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr ""
+
+#: template-parts/post/author-bio.php:24
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: inc/customize-pro/class-customize.php:77
+msgid "View Type Plus"
+msgstr ""
+
+#: functions.php:768
+#, php-format
+msgid "Welcome to %s!"
+msgstr ""
+
+#: functions.php:772
+#, php-format
+msgid "Welcome! Thank you for choosing %s"
+msgstr ""
+
+#: functions.php:135
+msgid "White"
+msgstr ""
+
+#: inc/about-page/class-type-about-page.php:295
+#, php-format
+msgid "With %s your website loads fast and runs smoothly."
+msgstr ""
+
+#: inc/customizer.php:205
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/customizer.php:206
+msgid ""
+"WooCommerce Settings. Cart, Checkout and Account are standard pages. To "
+"remove the Sidebar apply the Full width Template to the page."
+msgstr ""
+
+#: functions.php:738
+msgid "Y"
+msgstr ""
+
+#: functions.php:770
+#, php-format
+msgid "You have successfully installed the %s WordPress theme."
+msgstr ""
